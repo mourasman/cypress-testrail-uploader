@@ -1,5 +1,5 @@
 {
-  "name": "testrail-uploader",
+  "name": "cypress-testrail-uploader",
   "version": "1.0.0",
   "description": "A module that uploads Cypress' test runs to TestRail",
   "main": "lib/index.js",
