@@ -1,6 +1,6 @@
 {
   "name": "cypress-testrail-uploader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A module that uploads Cypress' test runs to TestRail",
   "main": "lib/index.js",
   "repository": {
